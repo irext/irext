@@ -716,10 +716,11 @@ INT8 parse_function_1_tag29(struct tag_head *tag, t_function_1 *function1)
     // seg_index in TAG only refers to functional count
     for (seg_index = AC_FUNCTION_POWER; seg_index < AC_FUNCTION_MAX; seg_index++)
     {
-        INT8 fid = parse_function_1(hex_data, &trav_offset, &function1->comp_data[0]);
-
+        
+        parse_function_1(hex_data, &trav_offset, &function1->comp_data[0]);
         /** WARNING: for strict mode only **/
         /**
+        INT8 fid = parse_function_1(hex_data, &trav_offset, &function1->comp_data[0]);
         if (fid > AC_FUNCTION_MAX - 1)
         {
             irda_free(hex_data);
@@ -1071,6 +1072,8 @@ INT8 parse_function_2_tag34(struct tag_head *tag, t_function_2 *function2)
     // parse hex data to mode1 data structure
     function2->len = (UINT8) hex_len;
 
+    parse_function_2(hex_data, &trav_offset, &function2->comp_data[0]);
+
     // seg_index in TAG only refers to functional count
     for (seg_index = AC_FUNCTION_POWER; seg_index < AC_FUNCTION_MAX; seg_index++)
     {
@@ -1078,6 +1081,7 @@ INT8 parse_function_2_tag34(struct tag_head *tag, t_function_2 *function2)
 
         /** WARNING: for strict mode only **/
         /**
+        INT8 fid = parse_function_2(hex_data, &trav_offset, &function2->comp_data[0]);
         if (fid > AC_FUNCTION_MAX - 1)
         {
             irda_free(hex_data);
