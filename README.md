@@ -2,7 +2,7 @@
 
 <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/icon.png" height="96" width="96">
 
-中文介绍不再继续维护，请直接移步官方网站获取详细信息：| __[Official Web Site](https://irext.net)__
+View more details on --> __[Official Web Site](https://irext.net)__
 
 
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
