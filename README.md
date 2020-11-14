@@ -12,7 +12,7 @@ __IRext is an open source Infra Red Remote Control library with encoding and dec
 
 With IRext, you can easily get extremely compressed remote control code from web API and decode it in various environment including embedded devices, mobile phones, PC or even in your cloud servers.
 
-A diagram below shows the infrastructure of IRext solution with IRIS.
+### Architecture
 
 <img src="https://irext.net/doc/images/architecture.png">
 
@@ -24,7 +24,7 @@ A diagram below shows the infrastructure of IRext solution with IRIS.
 - __[🧰 Offline IR Remote Code Database](https://github.com/irext/database)__
 - __[🔌 WebCOM Plugin](https://github.com/irext/irext-web-com)__
 
-### Features :
+### Features
 - All remote control codes are well verified.
 - All remote control codes are extremely compressed with encoding algorithm. Millions bytes of IR remote code is compressed into a single file within hundreds bytes.
 - All remote control codes could be decoded with a single set of algorithm.
@@ -42,7 +42,8 @@ A diagram below shows the infrastructure of IRext solution with IRIS.
 - Provides best practice for different product environment.
 
 
-### [Documents](https://irext.net/doc/)
+### Documents
+Please refer to [this link](https://irext.net/doc/) for detail.
 
 
 ### Author
