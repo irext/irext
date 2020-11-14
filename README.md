@@ -39,6 +39,7 @@ A diagram below shows the infrastructure of IRext solution with IRIS.
 - All IR codes and indexing data are being updated monthly.
 - Support IR code reverse match.
 - Support IR code maintainance via IR Interchange Service.
+- Provides best practice for different product environment.
 
 
 ### [Documents](https://irext.net/doc/)
