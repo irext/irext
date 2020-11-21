@@ -14,7 +14,7 @@ With IRext, you can easily get extremely compressed remote control code from web
 
 ### Architecture
 
-<img src="https://irext.net/doc/images/architecture.png">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/architecture.png">
 
 ### __Sub Projects__
 - __[📡 Encoding and Decoding Core Library](https://github.com/irext/core)__
