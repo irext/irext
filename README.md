@@ -22,7 +22,7 @@ With IRext, you can easily get extremely compressed remote control code from web
 - __[📙 Decode Examples](http://strawmanbobi.wicp.net/irext/examples)__
 - __[📦 Java Web and Android API for Remote Code Index](http://strawmanbobi.wicp.net/irext/index-api)__
 - __[🧰 Offline IR Remote Code Database](http://strawmanbobi.wicp.net/irext/database)__
-- __[🔌 WebCOM Plugin](http://strawmanbobi.wicp.net/irext/irext-web-com)__
+- __[🔌 WebCOM Plugin](http://strawmanbobi.wicp.net/irext/web-com)__
 
 ### Features
 - All remote control codes are well verified.
