@@ -2,7 +2,7 @@
 
 <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/icon.png" height="96" width="96">
 
-View more details on --> __[Official Web Site](https://irext.net)__
+View more details on --> __[Official Web Site](https://cc.irext.net)__
 
 
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
@@ -17,12 +17,12 @@ With IRext, you can easily get extremely compressed remote control code from web
 <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/architecture.png">
 
 ### __Sub Projects__
-- __[📡 Encoding and Decoding Core Library](https://github.com/irext/core)__
-- __[🌧️ Private Cloud (Indexing Service and Admin Console)](https://github.com/irext/private-cloud)__
-- __[📙 Decode Examples](https://github.com/irext/irext-examples)__
-- __[📦 Java Web and Android API for Remote Code Index](https://github.com/irext/irext-web-api)__
-- __[🧰 Offline IR Remote Code Database](https://github.com/irext/database)__
-- __[🔌 WebCOM Plugin](https://github.com/irext/irext-web-com)__
+- __[📡 Encoding and Decoding Core Library](http://strawmanbobi.wicp.net/irext/core)__
+- __[🌧️ Private Cloud (Indexing Service and Admin Console)](http://strawmanbobi.wicp.net/irext/private-cloud)__
+- __[📙 Decode Examples](http://strawmanbobi.wicp.net/irext/irext-examples)__
+- __[📦 Java Web and Android API for Remote Code Index](http://strawmanbobi.wicp.net/irext/irext-web-api)__
+- __[🧰 Offline IR Remote Code Database](http://strawmanbobi.wicp.net/irext/database)__
+- __[🔌 WebCOM Plugin](http://strawmanbobi.wicp.net/irext/irext-web-com)__
 
 ### Features
 - All remote control codes are well verified.
@@ -43,7 +43,7 @@ With IRext, you can easily get extremely compressed remote control code from web
 
 
 ### Documents
-Please refer to [this link](https://irext.net/doc/) for detail.
+Please refer to [this link](https://cc.irext.net/doc/) for detail.
 
 
 ### Author
@@ -60,4 +60,5 @@ Also, if you think this protect really helped you, welcome to buy the project cr
 
 Donate via Wechat: 
 
-<image src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/donate.png" height="200" width="200">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/donate.png" height="200" width="200">
+
