@@ -19,8 +19,8 @@ With IRext, you can easily get extremely compressed remote control code from web
 ### __Sub Projects__
 - __[📡 Encoding and Decoding Core Library](http://strawmanbobi.wicp.net/irext/core)__
 - __[🌧️ Private Cloud (Indexing Service and Admin Console)](http://strawmanbobi.wicp.net/irext/private-cloud)__
-- __[📙 Decode Examples](http://strawmanbobi.wicp.net/irext/irext-examples)__
-- __[📦 Java Web and Android API for Remote Code Index](http://strawmanbobi.wicp.net/irext/irext-web-api)__
+- __[📙 Decode Examples](http://strawmanbobi.wicp.net/irext/examples)__
+- __[📦 Java Web and Android API for Remote Code Index](http://strawmanbobi.wicp.net/irext/index-api)__
 - __[🧰 Offline IR Remote Code Database](http://strawmanbobi.wicp.net/irext/database)__
 - __[🔌 WebCOM Plugin](http://strawmanbobi.wicp.net/irext/irext-web-com)__
 
