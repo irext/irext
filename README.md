@@ -4,9 +4,8 @@
 
 View more details on --> __[Official Web Site](https://cc.irext.net)__
 
-
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
-![](https://img.shields.io/badge/release-0.2.5-green.svg)
+![](https://img.shields.io/badge/release-1.2.7-green.svg)
 
 __IRext is an open source Infra Red Remote Control library with encoding and decoding algorithm and remote control databases__
 
