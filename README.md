@@ -2,7 +2,7 @@
 
 <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/icon.png" height="96" width="96">
 
-View more details on --> __[Official Web Site](https://cc.irext.net)__
+View more details on --> __[Official Web Site](https://site.irext.net)__
 
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
 ![](https://img.shields.io/badge/release-1.2.7-green.svg)
@@ -16,12 +16,13 @@ With IRext, you can easily get extremely compressed remote control code from web
 <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/architecture.png">
 
 ### __Sub Projects__
-- __[📡 Encoding and Decoding Core Library](http://irext.tech/irext/core)__
-- __[🌧️ Private Cloud (Indexing Service and Admin Console)](http://irext.tech/irext/private-cloud)__
-- __[📙 Decode Examples](http://irext.tech/irext/examples)__
-- __[📦 Java Web and Android API for Remote Code Index](http://irext.tech/irext/index-api)__
-- __[🧰 Offline IR Remote Code Database](http://irext.tech/irext/database)__
-- __[🔌 WebCOM Plugin](http://irext.tech/irext/web-com)__
+- __[📡 Encoding and Decoding Core Library](http://opensource.irext.net/irext/core)__
+- __[🌧️ Private Cloud (Indexing Service and Admin Console)](http://opensource.irext.net/irext/private-cloud)__
+- __[📙 Decode Examples](http://opensource.irext.net/irext/examples)__
+- __[📦 Java Web and Android API for Remote Code Index](http://opensource.irext.net/irext/index-api)__
+- __[🧰 Offline IR Remote Code Database](http://opensource.irext.net/irext/database)__
+- __[🌈 IRIS Kit](http://opensource.irext.net/irext/iris-kit)__
+- __[🔌 WebCOM Plugin](http://opensource.irext.net/irext/web-com)__
 
 ### Features
 - All remote control codes are well verified.
@@ -42,7 +43,7 @@ With IRext, you can easily get extremely compressed remote control code from web
 
 
 ### Documents
-Please refer to [this link](https://cc.irext.net/doc/) for detail.
+Please refer to [this link](https://site.irext.net/doc/) for detail.
 
 
 ### Author
