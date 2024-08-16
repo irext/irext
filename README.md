@@ -60,12 +60,12 @@ Email: strawmanbobi@163.com
 
 Wechat
 
-<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/wechat.png" height="160" width="160">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/wechat.png" height="192" width="192">
 
 The solution and IR data is free, however, you have to pay a github star to project IRext to get contact or support from the author, please add the github stargazer account to access message in SNS APPs.
 
 
 Donate via Wechat
 
-<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/donate.png" height="200" width="200">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/donate.png" height="192" width="192">
 
