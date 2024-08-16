@@ -1,6 +1,6 @@
 # IRext - Universal IR Remote Control Solution
 
-<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/icon.png" height="96" width="96">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/icon.png" height="64" width="64">
 
 View more details on --> __[Official Web Site](https://site.irext.net)__
 
