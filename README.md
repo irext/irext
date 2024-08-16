@@ -4,7 +4,7 @@
 
 View more details on --> __[Official Web Site](https://site.irext.net)__
 
-Private project group on gitlab --> __[Official Web Site](https://opensource.irext.net)__
+Private project group on gitlab --> __[IRext Opensource](https://opensource.irext.net)__
 
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
 ![](https://img.shields.io/badge/release-1.2.7-green.svg)
