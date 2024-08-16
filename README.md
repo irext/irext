@@ -26,7 +26,7 @@ With IRext, you can easily get extremely compressed remote control code from web
 - __[🌈 IRIS Kit](http://opensource.irext.net/irext/iris-kit)__
 - __[🔌 WebCOM Plugin](http://opensource.irext.net/irext/web-com)__
 
-### Features
+### IRext
 - All remote control codes are well verified.
 - All remote control codes are extremely compressed with encoding algorithm. Millions bytes of IR remote code is compressed into a single file within hundreds bytes.
 - All remote control codes could be decoded with a single set of algorithm.
@@ -42,6 +42,12 @@ With IRext, you can easily get extremely compressed remote control code from web
 - Support IR code reverse match.
 - Support IR code maintainance via IR Interchange Service.
 - Provides best practice for different product environment.
+
+### IRIS
+- code collect platform with Android virtual machine. (IRIS-Collector)
+- Remote control test and code collect module (IRIS-Kit)
+- Remote control test Android APP (IRIS-Client)
+- Remote control protocal analyze cloud (IRIS-Stack)
 
 
 ### Documents
