@@ -44,7 +44,7 @@ With IRext, you can easily get extremely compressed remote control code from web
 - Provides best practice for different product environment.
 
 ### IRIS
-- code collect platform with Android virtual machine. (IRIS-Collector)
+- Remote code collect platform with Android virtual machine. (IRIS-Collector)
 - Remote control test and code collect module (IRIS-Kit)
 - Remote control test Android APP (IRIS-Client)
 - Remote control protocal analyze cloud (IRIS-Stack)
