@@ -1,4 +1,4 @@
-# IRext - Universal IR Remote Control Solution
+# IRext & IRIS - The Universal IR Remote Control and Code Extension Solution
 
 <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/icon.png" height="64" width="64">
 
