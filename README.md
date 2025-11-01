@@ -45,6 +45,7 @@ With IRext, you can easily get extremely compressed remote control code from web
 - Remote control test and code collect module (IRIS-Kit)
 - Remote control test Android APP (IRIS-Client)
 - Remote control protocal analyze cloud (IRIS-Stack)
+- Remote control code encoding (compress)
 
 
 ### Documents
